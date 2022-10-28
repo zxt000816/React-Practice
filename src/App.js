@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import MovideCard from "./MovieCard";
 import './App.css'
+
 import SearchIcon from './search.svg'
 
 const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=c8a01dff';
